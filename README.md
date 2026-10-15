@@ -19,4 +19,4 @@ https://stepstamp-hk.vercel.app/
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1wSdGdiGyU9LGr3rd3vt0u2Dfvs1y3CO5R5jQeLjqeEY/edit?usp=sharing)
 
-詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](https://github.com/milkycocoa/StepStamp/tree/main/docs)）
+詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](https://github.com/milkycocoa/my-portfolio/tree/89cf0ec0115c4bd850cf5e9456c5b7e7eaa60de9/docs)）
