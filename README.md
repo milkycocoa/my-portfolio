@@ -37,6 +37,7 @@ https://stepstamp-hk.vercel.app/
 [アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1rVSzfarbzm_mhnayAZpaIIE5IF1_-IhS2gULpS1DSlE/edit?usp=sharing)
 
 ## 備考
+[ESLintの実行結果_GitHub Actions](https://github.com/milkycocoa/StepStamp/actions)
 - 活用した生成AIとその用途
   - ChatGPT / Copilot：要件定義、設計、各種リサーチ
   - v0：アプリのモック作成
